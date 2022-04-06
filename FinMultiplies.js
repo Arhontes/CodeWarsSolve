@@ -8,6 +8,9 @@ function findMultiples(integer, limit) {
     }
     return array
 }
+<<<<<<< HEAD
 function findMultiples2(int,limit){
     return Array(Math.floor(limit/int)).fill(1).map((x,i)=>int*(i+1));
 }
+=======
+>>>>>>> origin/master
